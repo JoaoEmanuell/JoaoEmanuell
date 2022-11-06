@@ -6,7 +6,7 @@
 
 * ### 🌍 Paraiba - Brasil :brazil:
 * ### 👨‍🎓 Student
-* ### 1️⃣6️⃣ years
+* ### 1️⃣7️⃣ years
 
 ![GitHub followers](https://img.shields.io/github/followers/JoaoEmanuell?style=social)
 <br>
