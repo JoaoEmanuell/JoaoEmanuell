@@ -2,11 +2,13 @@
 
 ## My name is João Emanuel 👨
 
-### 🧑‍💻 I'm just a programming and development student. :vulcan_salute:
+### 🧑‍💻 Studying systems analysis and development.
 
 * ### 🌍 Paraiba - Brasil :brazil:
 * ### 👨‍🎓 Student
 * ### 1️⃣8️⃣ years
+
+* [Click here for access my virtual portfolio](https://joaoemanuell.vercel.app/)
 
 ![GitHub followers](https://img.shields.io/github/followers/JoaoEmanuell?style=social)
 <br>
