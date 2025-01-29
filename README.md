@@ -6,7 +6,7 @@
 
 * ### 🌍 Paraiba - Brasil :brazil:
 * ### 👨‍🎓 Student
-* ### 1️⃣8️⃣ years
+* ### 1️⃣9️⃣ years
 
 * [Click here for access my virtual portfolio](https://joaoemanuell.vercel.app/)
 
